@@ -5,8 +5,6 @@
 - 배포 URL : https://www.otoo.kr/
 - Test ID : otoo
 - Test PW : 1234
-- RestAPI REPO URL : https://github.com/Team-A-I/otoo_java
-- FastAPI REPO URL : https://github.com/Team-A-I/otoo_python_llm
 
 <br>
 
@@ -89,9 +87,6 @@
 <br>
 
 ## 4. 역할 분담
-* **김현석**: 챗봇 + RAG + Redis,Security + 한일 더 적어줘요
-* **정상엽**: 관리자페이지 + 마이페이지 + 우정추론페이지 + 한일 더 적어줘요
-* **배정현**: STT + 판결 결과페이지
 
 ### 🍊권회은
 
@@ -166,17 +161,55 @@
     - 1차 배포 후, 우리는 주변 지인들의 피드백을 적극적으로 수렴했습니다. <br/> 이를 통해 사용자 경험을 개선하고, 더 나은 기능을 구현할 수 있었습니다.
 
 - 시장 반응 조사
-    - 2차 배포에서는 커뮤니티 사이트에 프로젝트를 공개하여 시장의 반응을 살폈습니다. <br/> 이를 통해 다양한 사용자들의 의견을 반영하고, 프로젝트의 방향성을 더욱 명확히 할 수 있었습니다. 
+    - 2차 배포에서는 커뮤니티 사이트에 프로젝트를 공개하여 시장의 반응을 살폈습니다. <br/> 이를 통해 다양한 사용자들의 의견을 반영하고, 프로젝트의 방향성을 더욱 명확히 할 수 있었습니다.
 
+- 백로그 확인
+    - 프로젝트를 실제 서비스처럼 구현하기 위해 Google Analytics 4(GA4)를 사용하여 데이터를 분석했습니다. 아래는 GA4 대시보드의 스크린샷입니다.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3cd101b-e3f5-487c-af4d-33da55548a37" alt="KakaoTalk_20240727_171605794_02" width="22%" />
+  <img src="https://github.com/user-attachments/assets/8a7625b1-f06f-4625-a2b1-68c8d2c21e85" alt="KakaoTalk_20240727_171605794_01" width="22%" />
+  <img src="https://github.com/user-attachments/assets/21bd7d57-4ae6-44d4-bca5-d8ba2f75734a" alt="KakaoTalk_20240727_171605794" width="22%" />
+  <img src="https://github.com/user-attachments/assets/81df9465-772b-4e9a-a094-531ca3d6d59b" alt="KakaoTalk_20240727_171605794_07" width="22%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0890fd11-c728-4e8b-ace2-8e1d33e14d81" alt="KakaoTalk_20240727_171605794_06" width="22%" />
+  <img src="https://github.com/user-attachments/assets/168ba4e5-6e91-4414-99a8-e2998d919dc2" alt="KakaoTalk_20240727_171605794_05" width="22%" />
+  <img src="https://github.com/user-attachments/assets/0fae3f4a-367e-4e71-a476-f831932b77b4" alt="KakaoTalk_20240727_171605794_04" width="22%" />
+  <img src="https://github.com/user-attachments/assets/d43494a1-f982-4529-83d0-0337cdde7c53" alt="KakaoTalk_20240727_171605794_03" width="22%" />
+</p>
 <br>
 
 ## 7. 페이지별 기능
 
 ### [초기화면]
 
+#### PC 버전
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c7b3f20-c2ec-4e46-9bc7-617f410fef10" alt="메인화면(pc)" width="70%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/619f3c97-85cf-4957-9ae2-f90739be168a" alt="메인화면(mobile)1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/90b0f22b-3fcd-44fd-918b-e87dc73b4c5f" alt="메인화면(mobile)2" width="45%" />
+</p>
 <br>
 
 ### [회원가입]
+
+#### PC 버전
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97ae9341-64bb-4811-a270-0629987673e8" alt="회원가입(pc)" width="70%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a493b5d4-38fa-4cfe-8eb0-e3112dc61ef4" alt="회원가입(mobile)" width="45%" />
+</p>
 
 <br>
 
