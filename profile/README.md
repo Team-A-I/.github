@@ -166,16 +166,16 @@
 - 백로그 확인
     - 프로젝트를 실제 서비스처럼 구현하기 위해 Google Analytics 4(GA4)를 사용하여 데이터를 분석했습니다. 아래는 GA4 대시보드의 스크린샷입니다.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d3cd101b-e3f5-487c-af4d-33da55548a37" alt="KakaoTalk_20240727_171605794_02" width="22%" />
-  <img src="https://github.com/user-attachments/assets/8a7625b1-f06f-4625-a2b1-68c8d2c21e85" alt="KakaoTalk_20240727_171605794_01" width="22%" />
-  <img src="https://github.com/user-attachments/assets/21bd7d57-4ae6-44d4-bca5-d8ba2f75734a" alt="KakaoTalk_20240727_171605794" width="22%" />
-  <img src="https://github.com/user-attachments/assets/81df9465-772b-4e9a-a094-531ca3d6d59b" alt="KakaoTalk_20240727_171605794_07" width="22%" />
+  <img src="https://github.com/user-attachments/assets/ef537153-7ae5-4d48-9124-abe4756dec6e" alt="KakaoTalk_20240727_171605794_02" width="22%" />
+  <img src="https://github.com/user-attachments/assets/8f54d469-2fd5-43e0-99e3-13829d62a683" alt="KakaoTalk_20240727_171605794_01" width="22%" />
+  <img src="https://github.com/user-attachments/assets/d1ef55b1-8b1a-435b-b687-dd72bea5eaf9" alt="KakaoTalk_20240727_171605794" width="22%" />
+  <img src="https://github.com/user-attachments/assets/05d63493-84a1-458b-9745-0579a087e19a" alt="KakaoTalk_20240727_171605794_07" width="22%" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0890fd11-c728-4e8b-ace2-8e1d33e14d81" alt="KakaoTalk_20240727_171605794_06" width="22%" />
-  <img src="https://github.com/user-attachments/assets/168ba4e5-6e91-4414-99a8-e2998d919dc2" alt="KakaoTalk_20240727_171605794_05" width="22%" />
-  <img src="https://github.com/user-attachments/assets/0fae3f4a-367e-4e71-a476-f831932b77b4" alt="KakaoTalk_20240727_171605794_04" width="22%" />
-  <img src="https://github.com/user-attachments/assets/d43494a1-f982-4529-83d0-0337cdde7c53" alt="KakaoTalk_20240727_171605794_03" width="22%" />
+  <img src="https://github.com/user-attachments/assets/fc11df3e-8401-4f12-bedc-ac3704ffa4a8" alt="KakaoTalk_20240727_171605794_06" width="22%" />
+  <img src="https://github.com/user-attachments/assets/c9dfec3e-8adc-4d6e-9c58-e554afa11ceb" alt="KakaoTalk_20240727_171605794_05" width="22%" />
+  <img src="https://github.com/user-attachments/assets/1ff24683-8666-4cd7-95bd-b3626131ddef" alt="KakaoTalk_20240727_171605794_04" width="22%" />
+  <img src="https://github.com/user-attachments/assets/e6f3a1dd-ad4c-4f26-b1fa-00b7e9741f15" alt="KakaoTalk_20240727_171605794_03" width="22%" />
 </p>
 <br>
 
@@ -186,14 +186,14 @@
 #### PC 버전
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c7b3f20-c2ec-4e46-9bc7-617f410fef10" alt="메인화면(pc)" width="70%" />
+  <img src="https://github.com/user-attachments/assets/ffd2585a-96c3-4864-a9df-3126f106df85" alt="메인화면(pc)" width="50%" />
 </p>
 
 #### 모바일 버전
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/619f3c97-85cf-4957-9ae2-f90739be168a" alt="메인화면(mobile)1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/90b0f22b-3fcd-44fd-918b-e87dc73b4c5f" alt="메인화면(mobile)2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b1600369-d05f-44b6-8ee1-29dfba141eb1" alt="메인화면(mobile)1" width="25%" />
+  <img src="https://github.com/user-attachments/assets/5073c578-232b-4373-b652-13294b3e6371" alt="메인화면(mobile)2" width="25%" />
 </p>
 <br>
 
@@ -202,70 +202,240 @@
 #### PC 버전
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97ae9341-64bb-4811-a270-0629987673e8" alt="회원가입(pc)" width="70%" />
+    <img src="https://github.com/user-attachments/assets/c084a491-c51e-4dfc-a588-9288d3504805" alt="메인화면(mobile)1" width="50%" />
 </p>
 
 #### 모바일 버전
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a493b5d4-38fa-4cfe-8eb0-e3112dc61ef4" alt="회원가입(mobile)" width="45%" />
+  <img src="https://github.com/user-attachments/assets/96da695a-5be6-4580-9176-772980af2718" alt="메인화면(mobile)2" width="25%" />
 </p>
-
 <br>
 
 ### [로그인]
 
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2c2c40cb-610c-4e61-9dd8-b898a7aa53f6" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/19cb2eda-ddf3-4dcf-9f31-b594db02dabe" alt="메인화면(mobile)2" width="25%" />
+</p>
 <br>
 
-### [갈등판결 업로드]
+### [비밀번호 찾기]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/751d7b42-8326-4150-af16-1f9d949742c3" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3438ac82-2561-42d6-985f-63095c30c2f4" alt="메인화면(mobile)2" width="25%" />
+</p>
 
 <br>
 
-### [갈등판결(STT)]
+### [갈등판결(업로드 페이지)]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b418eb6d-1152-4c43-9f47-de8d8be86eeb" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/6f1886a0-7cad-4c2d-8513-8e9ae9dba98f" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/73cfa9e5-7a13-404f-8171-d55160971c7c" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/d8b15ba7-e1ba-4ccf-8c93-2b1b7b0b2e6b" alt="메인화면(mobile)1" width="40%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ad29daa5-328e-416c-9585-2c5fe60bbe46" alt="메인화면(mobile)1" width="20%" />
+    <img src="https://github.com/user-attachments/assets/9abbf96a-8009-41a7-8cba-3e57c3de0b50" alt="메인화면(mobile)1" width="20%" />
+    <img src="https://github.com/user-attachments/assets/2f3cdddc-1531-4d2b-a05c-7bf0deca1223" alt="메인화면(mobile)1" width="20%" />
+    <img src="https://github.com/user-attachments/assets/d55081af-1af5-45ba-9572-5a744556a50c" alt="메인화면(mobile)1" width="20%" />
+</p>
 
 <br>
 
-### [갈등판결(OCR)]
+### [로딩페이지]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4eeceaee-f4f5-4f48-9db9-d1cd59332f5b" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/b09f8411-b56a-485f-8703-2760355d3d79" alt="메인화면(mobile)1" width="40%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/69c1fb1d-9fdc-4c98-ac90-c06d23aa6f1b" alt="메인화면(mobile)1" width="25%" />
+    <img src="https://github.com/user-attachments/assets/9292d2ce-63ff-400f-8a9e-77afe2af61f5" alt="메인화면(mobile)1" width="25%" />
+</p>
 
 <br>
 
 ### [갈등판결 결과페이지]
 
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/0096bf7e-dc11-41b8-ae07-116872e67945" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/fcacba87-9251-4276-964e-5deb322af95c" alt="메인화면(mobile)1" width="40%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b263bdca-7bd1-47b4-9a92-cd377c0e39e1" alt="메인화면(mobile)1" width="25%" />
+    <img src="https://github.com/user-attachments/assets/f2e5d37a-3ced-4c8d-81e4-87414dde6fce" alt="메인화면(mobile)1" width="25%" />
+</p>
+
 <br>
 
-### [장구봇(일반모드)]
+### [맞장구봇]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/062ae817-add8-40db-bf31-2d773461dc8d" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/fc00478f-44e3-497d-b562-ef814cd00407" alt="메인화면(mobile)1" width="25%" />
+</p>
 
 <br>
 
-### [장구봇(장구모드)]
+### [맞장구봇(일반모드)]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/6c5dbbee-487d-45d9-82ca-a740e88c1773" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/15fd9fbc-97ed-4e5f-bd2f-898dcf930cde" alt="메인화면(mobile)1" width="25%" />
+</p>
+<br>
+
+### [맞장구봇(장구모드)]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/5c0e5f0d-81fc-41bd-a9ff-1b18fb62e22b" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/79a4355e-10ac-49ef-83f1-74d7b39600ca" alt="메인화면(mobile)1" width="25%" />
+</p>
 
 <br>
 
-### [장구봇(감정리포트)]
+### [맞장구봇(감정리포트)]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/8e4d294e-bb66-45bf-a53b-e022359a3cbc" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/070aa8cd-2b11-4f6b-8782-c4a4136607c8" alt="메인화면(mobile)1" width="25%" />
+</p>
 
 <br>
 
-### [마이페이지]
+### [Tip & Feedback]
 
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/db6c0d7e-ab7d-4ac0-be2f-a0b1f9a218b2" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/a3b835b5-a55b-4c9f-8ae3-e2b28c580157" alt="메인화면(mobile)1" width="40%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/392be124-97a1-4705-b195-274d8fab4771" alt="메인화면(mobile)1" width="25%" />
+    <img src="https://github.com/user-attachments/assets/1772a62c-5a0e-46a2-8611-373fa705e870" alt="메인화면(mobile)1" width="25%" />
+</p>
+
+<br>
+
+### [방명록]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/eae72e7d-aa0f-41d8-80fd-103ba4f071c0" alt="메인화면(mobile)1" width="40%" />
+    <img src="https://github.com/user-attachments/assets/b84f3d08-5c17-4dad-94f0-787eacef8d2c" alt="메인화면(mobile)1" width="40%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/3ca69eb9-fedb-4066-b455-2d7f677d0c75" alt="메인화면(mobile)1" width="25%" />
+    <img src="https://github.com/user-attachments/assets/ae2bdb55-a321-4221-b92e-9d0741562b9e" alt="메인화면(mobile)1" width="25%" />
+</p>
+<br>
+
+### [QnA]
+
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/995c6dcb-3cf3-4a9a-b51c-d05f6281c47e" alt="메인화면(mobile)1" width="50%" />
+</p>
+
+#### 모바일 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/7a07e0ef-ab77-45af-b070-bf3471973044" alt="메인화면(mobile)1" width="25%" />
+</p>
 <br>
 
 ### [관리자페이지]
 
+#### PC 버전
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/8a2a6396-d26e-440a-a2b2-e6b8a04b14e8" alt="메인화면(mobile)1" width="80%" />
+</p>
+
+
 <br>
 
-## 8. 트러블 슈팅
+## 8. 개선 목표
 
--
+- 막상 배포를하고 시장에 내놓아보니 이용하는 사용자가 없는 일이 발생
+  -> 사용자들이 우리 서비스를 사용해야 하는 이유를 찾아보고 개선 할 예정
 
-<br>
-
-## 9. 개선 목표
-
-- 
+- STT 음성 업로드는 현재 마이크 입력을통해 음성파일로 변환해 결과값을 받아오고있음 
+  -> Websocket,gRPC 를 통해 실시간 스트리밍으로 전환해 사용자에게 말하고있는 내용을 시각적으로 보여 줄 예정
     
 <br>
 
-## 10. 프로젝트 후기
+## 9. 프로젝트 후기
 
 ### 🍊 권회은
 
@@ -287,4 +457,7 @@
 
 ### 🐬 배정현
 
-- 
+- 여러모로 많은 것들을 배울 수 있었던 한 달이었습니다. 각자 다른환경에서 학습을 하다 온 사람들과 만나서
+  같이 프로젝트를 하다보니 내가 알고있는것이 전부가 아니였구나 다른방식, 더 나은방식이 있었고 그로인해 새로운 지식들을 접해볼 수 있는 좋은 기회였다고 생각이들었습니다.
+  좋은 팀원들 덕분에 좋은길로 나아갈 수 있는 발판이 생겨 첫걸음을 내딛을 수 있었습니다. 모두들 수고하셨습니다. 감사합니다.
+  
