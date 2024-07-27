@@ -20,6 +20,13 @@
 - 음성, 텍스트, 이미지 모든 형태의 대화 데이터 기반으로 상황 판단 후 판결을 내려주는 서비스
 - 서운함을 달래줄 언제나 내편, 무조건 맞장구 쳐주는 캐릭터 챗봇과 더불어 나의 감정을 추스려주는 감정리포트
 
+## 리포지토리 목록
+
+이 프로젝트는 다음과 같은 리포지토리로 구성되어 있습니다:
+
+- [Frontend (React)](https://github.com/Team-A-I/otoo_react)
+- [Backend (FastAPI)](https://github.com/Team-A-I/otoo_python_llm)
+- [API Gateway (RestAPI)](https://github.com/Team-A-I/otoo_java)
 <br>
 
 ## 팀원 구성
