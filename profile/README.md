@@ -33,7 +33,7 @@
 
 |<img src="https://avatars.githubusercontent.com/u/109562023?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/143330992?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/150677044?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/159854114?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
-|Hweeun Kwon<br/>[@heweun](https://github.com/heweun)|[@hyunseok92](https://github.com/hyunseok92)|[@catapracts](https://github.com/catapracts)|baejeonghyun<br/>[@baejeonghyun23](https://github.com/baejeonghyun23)|
+|권회은<br/>[@heweun](https://github.com/heweun)|김현석[@hyunseok92](https://github.com/hyunseok92)|정상엽[@catapracts](https://github.com/catapracts)|배정현<br/>[@baejeonghyun23](https://github.com/baejeonghyun23)|
 
 <br>
 
